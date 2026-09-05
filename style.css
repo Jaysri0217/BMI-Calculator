@@ -1,0 +1,36 @@
+.container{
+    justify-content: center;
+    background: #eddfea;
+    border: 5px solid rgb(138, 111, 162);
+    border-radius: 10px;
+    margin: 15px;
+    padding: 15px;
+
+}
+h1{
+    color: rgb(59, 15, 100);
+    text-shadow: 5cqmax;
+    background-color: rgb(156, 115, 195);
+    border-radius: 5px;
+    border: 2px solid ;
+    text-align: center;
+    padding: 8px;
+
+}
+form p{
+    color: rgb(19, 18, 20);
+
+}
+button{
+    background-color: rgb(198, 179, 201);
+    text-decoration: double;
+    border-radius: 5px;
+    margin-bottom: 10px;
+
+}
+input{
+    background-color: aliceblue;
+    border-radius: 5px;
+    border-color: black;
+}
+
